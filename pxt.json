@@ -1,0 +1,21 @@
+{
+    "name": "neomatrix",
+    "version": "0.1.6",
+    "description": "NeoMatrix Display",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "ws2812b": "git@github.com:microsoft/pxt-ws2812b.git"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/neomatrix-strings.json"
+    ],
+    "public": true,
+    "extension": {
+        "namespace": "neomatrix",
+        "label": "NeoMatrix Editor",
+        "localUrl": "https://kittenbot.github.io/pxt-neomatrix/index.html"
+    }
+}

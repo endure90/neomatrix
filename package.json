@@ -1,0 +1,11 @@
+{
+  "name": "pxt-neomatrix",
+  "version": "1.0.0",
+  "description": "An easy way to show anmations or images on neopixel matrix panel.",
+  "main": "precache-manifest.50ddbe474ca57578778d6a4a566857cb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
